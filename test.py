@@ -1,1 +1,1 @@
-print("Testing new laptop")
+print("Testing VS code")
